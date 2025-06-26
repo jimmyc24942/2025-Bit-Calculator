@@ -94,7 +94,7 @@ def integer_calc():
     num_bits = len(binary)
 
     # Set up answer and return it
-    answer = f"{integer} in binary is {binary}. We need {num_bits} to represent it."
+    answer = f"{integer} in binary is {binary}. We need {num_bits} bits to represent it."
 
     return answer
 
